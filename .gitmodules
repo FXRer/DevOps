@@ -1,0 +1,6 @@
+[submodule "Continuous-Delivery-with-Docker-and-Jenkins"]
+	path = Continuous-Delivery-with-Docker-and-Jenkins
+	url = https://github.com/PacktPublishing/Continuous-Delivery-with-Docker-and-Jenkins.git
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/docker-in-practice/jenkins.git

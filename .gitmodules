@@ -4,3 +4,6 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = https://github.com/docker-in-practice/jenkins.git
+[submodule "cilium"]
+	path = cilium
+	url = https://github.com/cilium/cilium.git
